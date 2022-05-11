@@ -163,6 +163,11 @@ span{
     right: 0px;
 }
 
+.heart:hover{
+    color: red;
+}
+
+
 .marca{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 12px;
